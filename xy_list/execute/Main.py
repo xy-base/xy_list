@@ -1,5 +1,5 @@
 # -*- coding: UTF-8 -*-
-__author__ = "余洋"
+__author__ = "yuyangit"
 __doc__ = "Main"
 """
   * @File    :   Main.py
