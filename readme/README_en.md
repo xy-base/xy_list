@@ -23,6 +23,7 @@ List tools.
 ## 安装
 
 ```bash
+# bash
 pip install xy_list
 ```
 
